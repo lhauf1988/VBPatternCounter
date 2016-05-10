@@ -1,0 +1,10 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\bin\Debug\Pattern Counting Application.exe.config
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\bin\Debug\Pattern Counting Application.exe
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\bin\Debug\Pattern Counting Application.pdb
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\bin\Debug\Pattern Counting Application.xml
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern_Counting_Application.frmCountingForm.resources
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern_Counting_Application.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern Counting Application.vbproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern Counting Application.exe
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern Counting Application.xml
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\Pattern Counting Application\Pattern Counting Application\obj\Debug\Pattern Counting Application.pdb
